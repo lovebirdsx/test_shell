@@ -1,0 +1,12 @@
+{
+    "editor.tabSize": 2,
+    "filewatcher.commands": [
+        {
+            "match": "\\.bat",
+            "event": "onFileChange",
+            "cmd": "cd /d ${fileDirname} && call ${fileBasename}"
+        }
+    ],
+    "filewatcher.autoClearConsole": false,
+    "filewatcher.isClearStatusBar": true
+}
