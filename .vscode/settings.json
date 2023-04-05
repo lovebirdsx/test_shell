@@ -5,6 +5,10 @@
             {
                 "match": "\\.bat",
                 "cmd": "cd /d ${fileDirname} && call ${fileBasename}"
+            },
+            {
+                "match": "\\.ahk",
+                "cmd": "cd /d ${fileDirname} && start ${fileBasename}"
             }
         ]
     },

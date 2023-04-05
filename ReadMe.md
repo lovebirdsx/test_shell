@@ -5,3 +5,4 @@
 包含:
 
 - [batch](batch/ReadMe.md): 用于测试批处理语言
+- [autohotkey](ahk/ReadMe.md): 用于测试批处理语言
