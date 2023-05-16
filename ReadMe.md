@@ -6,3 +6,4 @@
 
 - [batch](batch/ReadMe.md): 用于测试批处理语言
 - [autohotkey](ahk/ReadMe.md): 用于测试批处理语言
+- [jenkins](jenkins/ReadMe.md): 用于测试jenkins的RESTful API
