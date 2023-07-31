@@ -11,4 +11,5 @@
 | [get_absolute_path.bat](get_absolute_path.bat)         | 获取绝对路径         |
 | [get_p4_client.bat](get_p4_client.bat)                 | 获取p4 client        |
 | [read_tocken_from_file.bat](read_tocken_from_file.bat) | 从文件中读取token    |
+| [read_ini.bat](read_ini.bat.bat)                       | 读取ini文件          |
 | [replace_character.bat](replace_character.bat)         | 替换字符             |
